@@ -49,6 +49,7 @@ class TestDes():
         code = code + "\n\n  /* Test Description */\n"
         code = code + "  " + str(self.value).replace("<","").replace(">","") + ";\n\n"
 
+
 class TestRes():
     def __init__(self,inp,out,operator):
         self.inp = inp

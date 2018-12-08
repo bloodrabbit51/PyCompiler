@@ -17,7 +17,7 @@ def generate_code():
         line_no = line_no + 1
         for line in fp:
             try:
-                if(len(line.replace('\n',"")) > 0):
+                if((len(line.replace('\n',"")) > 0) and ('#' not in line)):
                     token = lexer.lex(line.replace('\n',""))
                     parser.parse(token)
                 line_no = line_no + 1
