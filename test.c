@@ -72,7 +72,7 @@ uint8 shamim (void){
 
 
   /* Test Description */
-  BswM_fuckme(&hotchicks);
+  new_world(&pointer);
 
  /* Expected Result - 1 */
   App_GddTestStepId++;
@@ -83,14 +83,14 @@ uint8 shamim (void){
 
  /* Expected Result - 2 */
   App_GddTestStepId++;
-  if(!(fuck_boi))
+  if(!(function(ab,gg)))
   {
     return(APP_TC_FAILED);
   }
 
  /* Expected Result - 3 */
   App_GddTestStepId++;
-  if(bswm_init() == FALSE)
+  if(india() == array[123])
   {
     return(APP_TC_FAILED);
   }
