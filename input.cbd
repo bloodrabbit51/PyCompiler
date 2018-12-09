@@ -1,0 +1,17 @@
+start "shamim"
+descr : <new_world(&pointer)>
+reslt : <bswm_init()> is <TRUE>
+reslt : not <function(ab,gg)>
+asjkdhaskjd
+reslt : <india()> is <array[562]>
+# heyy whats upp
+stop "shamim"
+
+
+
+
+
+
+
+
+
